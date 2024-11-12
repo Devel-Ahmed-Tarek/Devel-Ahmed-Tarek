@@ -1,4 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Ahmed Tarek Abdala Hasan] 👋
+![Alt Text]([https://example.com/image.png](https://www.facebook.com/photo/?fbid=3443556755971408&set=a.1419792808347823))
+
 
 **Full Stack Developer | PHP & Laravel Expert**  
 **3 Years of Experience**
@@ -10,8 +12,7 @@ I'm a Full Stack Developer specializing in PHP and Laravel with a deep passion f
 
 ### 🚀 Core Skills
 - **Back-end**: PHP, Laravel, MySQL, RESTful APIs
-- **Front-end**: HTML, CSS, JavaScript, Vue.js (or React if you use it)
-- **DevOps**: Docker, Git, CI/CD
+- **Front-end**: HTML, CSS, JavaScript,Balade ,Vue.js
 
 
 ### 📂 Notable Projects
